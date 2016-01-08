@@ -1,0 +1,28 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "mocha tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobaska/mocha.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "kobaska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobaska/mocha/issues"
+  },
+  "homepage": "https://github.com/kobaska/mocha#readme",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "express": "^4.13.3",
+    "mocha": "0.3.x",
+    "request": "^2.67.0"
+  }
+}
